@@ -1,0 +1,118 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "MAINTENANCE_MODE": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😆"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoClean": true,
+    "ACCESSTOKEN": "EAAGNO4a7r2wBO62YsCRDWxKI0sVFvEGPBHZBsXe99i1U5NdGniYvLOVmonmsghnQfNyp0TwZB2nRK3VBvmeaC99ZABbVQ3IimnxZBen9egaI9TmpmPU4OZCn7YCPTJpb1R473s9RKkbENsC9cX4aIMJSVqejP6ZCE6ajtaxD52UI4DB6JCmO3CFKLoPgZDZD",
+    "BOTNAME": "Qsown",
+    "AMDIN_NAME": "Lê Ngọc Khánh Băng",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/lekhanhhihi",
+    "PREFIX": "-",
+    "ADMINBOT": [
+        "61550962658401"
+    ],
+    "NDH": [],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "log": {
+        "enable": true
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 100000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "sub1": {
+        "cooldownTime": 60000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "hamster": {
+        "cooldownTime": 60
+    },
+    "cavev2": {
+        "cooldownTime": 1200000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "anti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "kicktag": {
+        "kickTagDelay": 1
+    },
+    "spamtag": {
+        "spamDelay": 2
+    },
+    "adminOnly": false,
+    "cave": {
+        "cooldownTime": 200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "simsimi": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "adminupdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 60
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "cavee": {
+        "cooldownTime": 100000
+    }
+}
