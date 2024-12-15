@@ -38,7 +38,7 @@ function eventDisme() {
     const { readFileSync, readdirSync } = require("fs");
     const { execSync } = require("child_process");
     const { resolve, join } = require("path");
-    let main = process.cwd() + '/marisv5.js'
+    let main = process.cwd() + '/mirai.js'
     var length = (readFileSync(main, "utf-8").split(/\r?\n/)).length;
     const getDirs = readdirSync(join(process.cwd()));
     if(length > 500) {
